@@ -248,6 +248,7 @@ p.about__container-link {
 .project__image-one {
     background: url(../images/couv.jpg) no-repeat 50% 50%;
     background-size: cover;
+    max-width: 100%;
 }
 
 .project__image-two {
@@ -256,6 +257,7 @@ p.about__container-link {
     left: -260px;
     background: url(../images/contraception.jpg) no-repeat 50% 50%;
     background-size: cover;
+      max-width: 100%;
 }
 
 .project__image-three {
@@ -263,6 +265,7 @@ p.about__container-link {
     left: 300px;
     background: url(../images/poils1.jpg) no-repeat 50% 50%;
     background-size: cover;
+      max-width: 100%;
 }
 
 .project__image-four {
@@ -271,6 +274,7 @@ p.about__container-link {
     left: -100px;
     background: url(../images/corpus1.jpg) no-repeat 50% 50%;
     background-size: cover;
+      max-width: 100%;
 }
 
 .project__image-five {
@@ -279,6 +283,7 @@ p.about__container-link {
     left: -300px;
     background: url(../images/témoignage.jpg) no-repeat 50% 50%;
     background-size: cover;
+      max-width: 100%;
 }
 .project__image-six {
     position: relative;
@@ -286,6 +291,7 @@ p.about__container-link {
     left: 100px;
     background: url(../images/seins.jpg) no-repeat 50% 50%;
     background-size: cover;
+      max-width: 100%;
 }
 
 .project__image-seven {
@@ -294,6 +300,7 @@ p.about__container-link {
     left: -250px;
     background: url(../images/photos.png) no-repeat 50% 50%;
     background-size: cover;
+         max-width: 100%;
 }
 .project__image-eight {
     position: relative;
@@ -301,6 +308,7 @@ p.about__container-link {
     left: 150px;
     background: url(../images/photos2.png) no-repeat 50% 50%;
     background-size: cover;
+      max-width: 100%;
 }
 .project__image-nine {
     position: relative;
@@ -308,6 +316,7 @@ p.about__container-link {
     left: -100px;
     background: url(../images/mockup_insta_1.jpg) no-repeat 50% 50%;
     background-size: cover;
+      max-width: 100%;
 }
 .project__image-ten {
     position: relative;
@@ -315,6 +324,7 @@ p.about__container-link {
     left: 150px;
     background: url(../images/mockups_insta.jpg) no-repeat 50% 50%;
     background-size: cover;
+      max-width: 100%;
 }
 .project-next-link {
     position: relative;
